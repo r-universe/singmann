@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "afex"]
+	path = afex
+	url = https://github.com/singmann/afex
+	shallow = true
+	registered = true
