@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MPTinR"]
+	path = MPTinR
+	url = https://github.com/cran/MPTinR
 [submodule "acss.data"]
 	path = acss.data
 	url = https://github.com/cran/acss.data
 [submodule "afex"]
 	path = afex
 	url = https://github.com/singmann/afex
-[submodule "MPTinR"]
-	path = MPTinR
-	url = https://github.com/cran/MPTinR
